@@ -1,7 +1,9 @@
 1. Install 
 $pip install -r requirements.txt
-
-2. Run
+2. Training model
+change path to  your json file and run
+$python train.py
+4. Run
 $python main_chat.py
 
 Then when you see:
